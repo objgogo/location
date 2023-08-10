@@ -23,3 +23,6 @@ gradle-app.setting
 # Gradle files
 .gradle/
 build/
+
+#idea
+.idea
